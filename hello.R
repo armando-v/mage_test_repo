@@ -1,3 +1,3 @@
-print("hello.R")
-
+print("hello")
+print("world")
 
