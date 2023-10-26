@@ -1,6 +1,6 @@
 print("hello.R")
 
-library(dplyr)
+#library(dplyr)
 data <- starwars %>% 
           filter(species == "Droid")
 
